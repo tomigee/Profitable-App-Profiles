@@ -1,4 +1,4 @@
-# Profitable-App-Profiles
+# Beyond Downloads: A Data-Driven Guide to Building Truly Engaging Apps
 A data analysis project using Apple App Store and Google Play Store data to examine what attributes of an app make it popular. The goal is to provide recommendations to developers on what characteristics to build into their next app to ensure its success.
 
 The steps used in this analysis project are as follows:
